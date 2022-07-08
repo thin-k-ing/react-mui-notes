@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's Birthday Bash",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a nunc malesuada tellus tempor finibus. Nulla aliquam egestas lacinia. Sed ullamcorper egestas turpis ac facilisis. Suspendisse rutrum risus vel urna faucibus, id finibus tortor bibendum. Duis sit amet gravida nunc, eget sollicitudin turpis.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my Ninja Training",
+      "details": "Vestibulum rhoncus convallis fringilla. Aliquam condimentum congue iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras eu pulvinar leo. Quisque id arcu nec dui ullamcorper tincidunt. Donec sed enim id orci rutrum mollis blandit vel ex. Quisque nec vestibulum diam. Nunc vehicula tempus mollis. Morbi eget diam et sapien faucibus varius. Fusce metus sem, convallis at velit sed, bibendum pellentesque ante. Vestibulum non consequat libero, sit amet sagittis lorem. Ut lobortis felis eu lacus suscipit, quis congue purus semper.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a Pizza!",
+      "details": "Morbi eget nisl at nisi semper faucibus. Nam diam urna, sagittis eget eros a, ultricies eleifend diam. Vivamus in odio enim. Quisque venenatis fringilla aliquam.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay for the electricity",
+      "category": "money",
+      "details": "Praesent semper ante eu tristique tristique. Curabitur vel elit scelerisque, posuere eros vitae, bibendum libero. Aliquam ornare nulla ut arcu elementum iaculis. Sed pretium sem vel urna aliquam, ac lobortis dui placerat. In iaculis lectus ligula, quis euismod magna dapibus nec. Integer in odio magna.",
+      "id": 4
+    },
+    {
+      "title": "Title",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a nunc malesuada tellus tempor finibus. Nulla aliquam egestas lacinia. Sed ullamcorper egestas turpis ac facilisis. Suspendisse rutrum risus vel urna faucibus, id finibus tortor bibendum. Duis sit amet gravida nunc, eget sollicitudin turpis.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Another Title",
+      "details": "Vestibulum rhoncus convallis fringilla. Aliquam condimentum congue iaculis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras eu pulvinar leo. Quisque id arcu nec dui ullamcorper tincidunt. Donec sed enim id orci rutrum mollis blandit vel ex. Quisque nec vestibulum diam. Nunc vehicula tempus mollis. Morbi eget diam et sapien faucibus varius. Fusce metus sem, convallis at velit sed, bibendum pellentesque ante. Vestibulum non consequat libero, sit amet sagittis lorem. Ut lobortis felis eu lacus suscipit, quis congue purus semper.",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "title": "Another Title",
+      "category": "money",
+      "details": "Praesent semper ante eu tristique tristique. Curabitur vel elit scelerisque, posuere eros vitae, bibendum libero. Aliquam ornare nulla ut arcu elementum iaculis. Sed pretium sem vel urna aliquam, ac lobortis dui placerat. In iaculis lectus ligula, quis euismod magna dapibus nec. Integer in odio magna.",
+      "id": 8
+    },
+    {
+      "title": "Another Title",
+      "category": "reminders",
+      "details": "Praesent semper ante eu tristique tristique. Curabitur vel elit scelerisque, posuere eros vitae, bibendum libero. Aliquam ornare nulla ut arcu elementum iaculis. Sed pretium sem vel urna aliquam, ac lobortis dui placerat. In iaculis lectus ligula, quis euismod magna dapibus nec. Integer in odio magna.",
+      "id": 9
+    }
+  ]
+}
